@@ -8,6 +8,15 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,115711
+DOMAIN-KEYWORD,diwuwei
+DOMAIN-KEYWORD,axshare
+DOMAIN-KEYWORD,paramst.cn
+DOMAIN-KEYWORD,cesium
+DOMAIN-KEYWORD,virtualearth
+DOMAIN-KEYWORD,unrealengine
+DOMAIN-KEYWORD,cloudflare.epicgamescdn.com
+DOMAIN-KEYWORD,egdownload
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
