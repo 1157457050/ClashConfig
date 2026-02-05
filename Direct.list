@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,egdownload
 DOMAIN-KEYWORD,eros.jjt.cmew.work
 DOMAIN-KEYWORD,cesu.cqwin.com
 DOMAIN-KEYWORD,oa-fk.seres.cn
+DOMAIN-KEYWORD,pc528.net
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
