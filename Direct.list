@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,virtualearth.net
-DOMAIN-SUFFIX,sokon.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,115711
@@ -19,6 +18,8 @@ DOMAIN-KEYWORD,eros.jjt.cmew.work
 DOMAIN-KEYWORD,cesu.cqwin.com
 DOMAIN-KEYWORD,oa-fk.seres.cn
 DOMAIN-KEYWORD,pc528.net
+DOMAIN-KEYWORD,sokon.com
+DOMAIN-KEYWORD,seres.cn
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
