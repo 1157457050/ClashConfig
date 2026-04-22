@@ -20,6 +20,7 @@ DOMAIN-KEYWORD,oa-fk.seres.cn
 DOMAIN-KEYWORD,pc528.net
 DOMAIN-KEYWORD,sokon.com
 DOMAIN-KEYWORD,seres.cn
+DOMAIN-KEYWORD,dnshe.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
