@@ -21,7 +21,9 @@ DOMAIN-KEYWORD,sokon.com
 DOMAIN-KEYWORD,seres.cn
 DOMAIN-KEYWORD,dnshe.com
 DOMAIN-KEYWORD,host:66
-
+# av
+DOMAIN-KEYWORD,javdb
+DOMAIN-KEYWORD,fc2cmadb
 
 # 国内DNS
 IP-CIDR,219.146.1.66/32,no-resolve
