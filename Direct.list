@@ -6,9 +6,10 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,virtualearth.net
-DOMAIN-SUFFIX,s.trojanflare.com
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,115711
+DOMAIN-KEYWORD,trojanflare
 DOMAIN-KEYWORD,axshare
 DOMAIN-KEYWORD,paramst.cn
 DOMAIN-KEYWORD,cloudflare.epicgamescdn.com
