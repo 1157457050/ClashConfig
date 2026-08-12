@@ -23,6 +23,7 @@ DOMAIN-KEYWORD,seres.cn
 DOMAIN-KEYWORD,dnshe.com
 # av
 DOMAIN-KEYWORD,fc2cmadb
+DOMAIN-KEYWORD,javdb
 
 # 国内DNS
 IP-CIDR,219.146.1.66/32,no-resolve
