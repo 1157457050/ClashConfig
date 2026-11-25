@@ -25,6 +25,9 @@ DOMAIN-KEYWORD,fk.seres.cn
 # av
 DOMAIN-KEYWORD,fc2cmadb
 
+# 指定直连 IP
+IP-CIDR,111.91.19.139/32,no-resolve
+
 # 国内DNS
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,219.147.1.66/32,no-resolve
